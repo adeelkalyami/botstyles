@@ -1,13 +1,3 @@
-/*
- * This style sheet changes the live chat style to use blue and grey chat bubbles.
- * You can style the chat however you wish by making your own style sheet and importing it to your page.
- *
- */
- 
- /*
-  * Style sheet responsible for Botlibre Embed Tab User vs. Bot conversation
-  */
-
 table.botplatformframechat-div{
 	display: none !important;
 }
