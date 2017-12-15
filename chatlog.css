@@ -8,6 +8,10 @@
   * Style sheet responsible for Botlibre Embed Tab User vs. Bot conversation
   */
 
+table.botplatformframechat-div{
+	display: none !important;
+}
+
 #botplatformchatbox {
 	background-color: white;
 }
